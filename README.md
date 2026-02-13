@@ -1,7 +1,7 @@
 # AgenciaViagem_Alunos
 
 <p align="center">
-  <img src="agenciaViagem.jpg" alt="Preview do Projeto BalleCoffee" width="100%">
+  <img src="img/Captura de tela 2026-02-13 153511.png" alt="Preview do Projeto BalleCoffee" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
